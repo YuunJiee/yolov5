@@ -1,0 +1,12 @@
+train: ../../dataset/train
+val: ../../dataset/valid
+test: ../../dataset/test
+
+names:
+  0: Banana
+  1: Bread
+  2: Egg
+  3: Milk
+  4: Potato
+  5: Spinach
+  6: Tomato
